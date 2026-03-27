@@ -1,9 +1,9 @@
 ---
 kind: node
 id: new-node
-entityType: person
-title: Norbert Wiener
-summary: A guy
+entityType: paper
+title: Another guy
+summary: meep
 aliases: []
 tags: []
 position:
