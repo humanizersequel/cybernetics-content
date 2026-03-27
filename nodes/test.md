@@ -15,7 +15,15 @@ appearance:
   size: md
   tone: default
   icon: node
-attachments: []
+attachments:
+  - id: blaise-pascal-pascal-s-pensees-munsey-s-libgen-li-epub
+    kind: epub
+    storage: github
+    path: assets/epubs/2026/03/blaise-pascal-pascals-pensees-munseys-libgen.li.epub
+    title: Blaise Pascal - Pascal's Pensees (Munsey's) - libgen.li.epub
+    mimeType: application/epub+zip
+    size: 329452
+    caption: test
 links: []
 meta: {}
 ---
