@@ -2,7 +2,8 @@
 kind: node
 id: new-node
 entityType: person
-title: New Node
+title: Norbert Wiener
+summary: A guy
 aliases: []
 tags: []
 position:
