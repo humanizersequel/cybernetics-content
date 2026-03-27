@@ -7,8 +7,8 @@ summary: A guy
 aliases: []
 tags: []
 position:
-  x: 120
-  'y': 120
+  x: 193.446320655843
+  'y': 153.66625245830468
 appearance:
   nodeType: person
   variant: card
