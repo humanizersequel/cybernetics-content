@@ -9,6 +9,7 @@ tags: []
 position:
   x: -15.773941652863684
   'y': -282.3734726363519
+coverAttachmentId: cybernetic-lead-jpg
 appearance:
   nodeType: person
   variant: pill
