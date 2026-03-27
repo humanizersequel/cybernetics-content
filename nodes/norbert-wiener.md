@@ -7,8 +7,8 @@ summary: A guy
 aliases: []
 tags: []
 position:
-  x: 120
-  'y': 120
+  x: 57.194798524309306
+  'y': -114.1418127052786
 appearance:
   nodeType: person
   variant: pill
