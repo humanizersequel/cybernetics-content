@@ -1,7 +1,7 @@
 ---
 kind: node
 id: norbert-wiener
-entityType: institution
+entityType: group
 title: Norbert Wiener
 summary: A guy
 aliases: []
