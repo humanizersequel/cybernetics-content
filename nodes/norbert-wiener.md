@@ -7,8 +7,8 @@ summary: A guy
 aliases: []
 tags: []
 position:
-  x: -15.773941652863684
-  'y': -282.3734726363519
+  x: -40.93442657233227
+  'y': -358.06097004952625
 coverAttachmentId: cybernetic-lead-jpg
 appearance:
   nodeType: person
@@ -28,3 +28,6 @@ attachments:
 links: []
 meta: {}
 ---
+Testing testing 1 2
+
+my name is meep meep
