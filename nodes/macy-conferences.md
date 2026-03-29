@@ -7,8 +7,8 @@ summary: meep
 aliases: []
 tags: []
 position:
-  x: -156.74506357165677
-  'y': -4.070662685221322
+  x: 87.99694902851627
+  'y': -189.76652539234564
 appearance:
   nodeType: person
   variant: card
