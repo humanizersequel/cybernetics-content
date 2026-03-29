@@ -1,14 +1,14 @@
 ---
 kind: node
 id: norbert-wiener
-entityType: person
+entityType: institution
 title: Norbert Wiener
 summary: A guy
 aliases: []
 tags: []
 position:
-  x: -40.93442657233227
-  'y': -358.06097004952625
+  x: -241.1364583980092
+  'y': -409.79857377975736
 coverAttachmentId: cybernetic-lead-jpg
 appearance:
   nodeType: person
