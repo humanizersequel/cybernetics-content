@@ -7,8 +7,11 @@ highlightEdgeIds: []
 dimNodeIds: []
 nodePositions:
   norbert-wiener:
-    x: -241.1364583980092
-    'y': -409.79857377975736
+    x: -149.73315592375172
+    'y': -472.1190072849329
+  macy-conferences:
+    x: -156.74506357165677
+    'y': -4.070662685221322
 nodeOverrides: {}
 edgeOverrides: {}
 meta: {}
