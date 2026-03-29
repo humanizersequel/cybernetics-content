@@ -7,8 +7,8 @@ summary: A guy
 aliases: []
 tags: []
 position:
-  x: -241.1364583980092
-  'y': -409.79857377975736
+  x: -149.73315592375172
+  'y': -472.1190072849329
 coverAttachmentId: cybernetic-lead-jpg
 appearance:
   nodeType: person
